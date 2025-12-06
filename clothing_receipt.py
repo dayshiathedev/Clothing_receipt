@@ -32,4 +32,4 @@ print(f"Tax: ${tax_amount:.2f}")
 print(f"Your total today is ${total_with_tax:.2f}")
 
 print("---------------------------")
-print("Thank you for shopping!")
+print("Thank you for shopping with us!")
